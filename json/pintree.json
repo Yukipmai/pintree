@@ -2,8 +2,708 @@
   {
     "type": "folder",
     "addDate": 1629854105805,
-    "title": "项目管理AI工具集(101) 由AI塑造项目管理未来社区出品",
+    "title": "项目管理AI工具 (101)由AI塑造项目管理未来社区出品",
     "children": [
+      {
+        "type": "link",
+        "addDate": 1727714858644,
+        "title": "First AI-driven Prediction Tool | ANR",
+        "icon": "https://logo.clearbit.com/antonionietorodriguez.com",
+        "url": "https://antonionietorodriguez.com/ai-driven-prediction-tool/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714855498,
+        "title": "Otter.ai - AI Meeting Note Taker & Real-time AI Transcription",
+        "icon": "https://logo.clearbit.com/otter.ai",
+        "url": "https://otter.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714852786,
+        "title": "飞书——先进企业协作与管理平台，一站式无缝办公协作，团队上下对齐目标，全面激活组织和个人。先进团队，先用飞书。",
+        "icon": "https://logo.clearbit.com/www.feishu.cn",
+        "url": "https://www.feishu.cn/exception?from=%2F"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714847050,
+        "title": "Microsoft Teams",
+        "icon": "https://logo.clearbit.com/login.live.com",
+        "url": "https://teams.live.com"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714844410,
+        "title": "ClickUp Brain | One AI to Replace them All",
+        "icon": "https://logo.clearbit.com/clickup.com",
+        "url": "https://clickup.com/ai"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714842577,
+        "title": "Zoho Projects | Online Project Management Platform",
+        "icon": "https://logo.clearbit.com/www.zoho.com",
+        "url": "https://www.zoho.com/projects/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714840346,
+        "title": "AI Calendar | Meet Motion's AI Calendar Assistant (Try for Free)",
+        "icon": "https://logo.clearbit.com/www.usemotion.com",
+        "url": "https://www.usemotion.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714838211,
+        "title": "AI Meeting Agent | Spinach AI",
+        "icon": "https://logo.clearbit.com/www.spinach.io",
+        "url": "https://www.spinach.io/home"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714836298,
+        "title": "Fireflies.ai | AI notetaker to transcribe, summarize, analyze meetings",
+        "icon": "https://logo.clearbit.com/fireflies.ai",
+        "url": "https://fireflies.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714834162,
+        "title": "HireVue Hiring Platform: Video Interviews, Assessments, AI, and More",
+        "icon": "https://logo.clearbit.com/www.hirevue.com",
+        "url": "https://www.hirevue.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714831987,
+        "title": "Greyfly | increasing project success - Greyfly",
+        "icon": "https://logo.clearbit.com/greyfly.ai",
+        "url": "https://greyfly.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714829611,
+        "title": "dFakto - Become data-driven today",
+        "icon": "https://logo.clearbit.com/www.dfakto.com",
+        "url": "https://www.dfakto.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714827369,
+        "title": "Faites de la planification un avantage concurrentiel",
+        "icon": "https://logo.clearbit.com/www.offolio.com",
+        "url": "https://www.offolio.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714824643,
+        "title": "Smartsheet AI tools empower teams to do more",
+        "icon": "https://logo.clearbit.com/www.smartsheet.com",
+        "url": "https://www.smartsheet.com/ai"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714822570,
+        "title": "AI for work and project management | Wrike",
+        "icon": "https://logo.clearbit.com/www.wrike.com",
+        "url": "https://www.wrike.com/features/work-intelligence/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714818546,
+        "title": "ChatGPT AI for Jira | Atlassian Marketplace",
+        "icon": "https://logo.clearbit.com/marketplace.atlassian.com",
+        "url": "https://marketplace.atlassian.com/apps/1231400/chatgpt-ai-for-jira?tab=overview&hosting=cloud"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714816420,
+        "title": "Introducing the AI Project Canvas | by Jan Zawadzki | Towards Data Science",
+        "icon": "https://logo.clearbit.com/towardsdatascience.com",
+        "url": "https://towardsdatascience.com/introducing-the-ai-project-canvas-e88e29eb7024"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714814195,
+        "title": "AI-Powered meetings & Voice Agents · Supernormal",
+        "icon": "https://logo.clearbit.com/www.supernormal.com",
+        "url": "https://www.supernormal.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714812018,
+        "title": "Online Gantt Chart Software | Gantt Chart Maker | Tom's Planner",
+        "icon": "https://logo.clearbit.com/www.tomsplanner.com",
+        "url": "https://www.tomsplanner.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714808938,
+        "title": "線上管理您團隊的工作、專案和任務 • Asana • Asana",
+        "icon": "https://logo.clearbit.com/asana.com",
+        "url": "https://asana.com/zh-tw"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714802770,
+        "title": "Reclaim AI | Smart Scheduling App for Teams",
+        "icon": "https://logo.clearbit.com/reclaim.ai",
+        "url": "https://reclaim.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714796874,
+        "title": "Clockwise: AI Powered Time Management Calendar",
+        "icon": "https://logo.clearbit.com/www.getclockwise.com",
+        "url": "https://www.getclockwise.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714792602,
+        "title": "Free screen recorder for Mac and PC | Loom",
+        "icon": "https://logo.clearbit.com/www.loom.com",
+        "url": "https://www.loom.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714790187,
+        "title": "AI 工作管理和工作效率工具 | Slack",
+        "icon": "https://logo.clearbit.com/slack.com",
+        "url": "https://slack.com/intl/zh-cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714787994,
+        "title": "Miro | The Innovation Workspace",
+        "icon": "https://logo.clearbit.com/miro.com",
+        "url": "https://miro.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714785299,
+        "title": "Hugging Face – The AI community building the future.",
+        "icon": "https://logo.clearbit.com/huggingface.co",
+        "url": "https://huggingface.co/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714782547,
+        "title": "nTask - All-in-One Project Management Software - nTask",
+        "icon": "https://logo.clearbit.com/www.ntaskmanager.com",
+        "url": "https://www.ntaskmanager.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714777882,
+        "title": "Timely time tracking software",
+        "icon": "https://logo.clearbit.com/timelyapp.com",
+        "url": "https://timelyapp.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714619641,
+        "title": "Decktopus AI",
+        "icon": "https://logo.clearbit.com/www.decktopus.com",
+        "url": "https://www.decktopus.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714617385,
+        "title": "Gammas - Gamma",
+        "icon": "https://logo.clearbit.com/gamma.app",
+        "url": "https://gamma.app/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714615048,
+        "title": "Face Swap Online Free",
+        "icon": "https://logo.clearbit.com/remaker.ai",
+        "url": "https://remaker.ai/face-swap-free/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714612592,
+        "title": "neptune.ai | The experiment tracker for foundation model training",
+        "icon": "https://logo.clearbit.com/neptune.ai",
+        "url": "https://neptune.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714610312,
+        "title": "monday.com | Your go-to work platform",
+        "icon": "https://logo.clearbit.com/monday.com",
+        "url": "https://monday.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714608064,
+        "title": "ChatGPT - Diagrams ‹Show Me› for Presentations, Code, Excel",
+        "icon": "https://logo.clearbit.com/chatgpt.com",
+        "url": "https://chatgpt.com/g/g-5QhhdsfDj-diagrams-show-me-for-presentations-code-excel"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714605689,
+        "title": "Generative Design AI Software",
+        "icon": "https://logo.clearbit.com/www.autodesk.com",
+        "url": "https://www.autodesk.com/solutions/generative-design-ai-software"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714602681,
+        "title": "Ansys AI - AI-Augmented Simulation Technology",
+        "icon": "https://logo.clearbit.com/www.ansys.com",
+        "url": "https://www.ansys.com/en-in/ai"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714599153,
+        "title": "DALL·E 3 | OpenAI",
+        "icon": "https://logo.clearbit.com/openai.com",
+        "url": "https://openai.com/index/dall-e-3/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714596545,
+        "title": "Figma: The Collaborative Interface Design Tool",
+        "icon": "https://logo.clearbit.com/www.figma.com",
+        "url": "https://www.figma.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714518986,
+        "title": "ElevenLabs: Free Text to Speech & AI Voice Generator | ElevenLabs",
+        "icon": "https://logo.clearbit.com/elevenlabs.io",
+        "url": "https://elevenlabs.io/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714515880,
+        "title": "Lightcast.com | OTT Solutions, Media Management and Delivery, Ad-Network",
+        "icon": "https://logo.clearbit.com/www.lightcast.com",
+        "url": "https://www.lightcast.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714509529,
+        "title": "AI Voices - NaturalReader Home",
+        "icon": "https://logo.clearbit.com/www.naturalreaders.com",
+        "url": "https://www.naturalreaders.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714506112,
+        "title": "魔音工坊--达人热推的短视频/有声书AI配音平台",
+        "icon": "https://logo.clearbit.com/www.moyin.com",
+        "url": "https://www.moyin.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714503824,
+        "title": "Notta - AI Meeting Notetaker & Audio Transcription",
+        "icon": "https://logo.clearbit.com/www.notta.ai",
+        "url": "https://www.notta.ai/en"
+      },
+      {
+        "type": "link",
+        "addDate": 1727714498432,
+        "title": "讯飞听见-免费在线录音转文字-语音转文字-录音整理-语音翻译软件",
+        "icon": "https://logo.clearbit.com/www.iflyrec.com",
+        "url": "https://www.iflyrec.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713995980,
+        "title": "Happy Scribe: The world's media localisation engine",
+        "icon": "https://logo.clearbit.com/www.happyscribe.com",
+        "url": "https://www.happyscribe.com/bvariant"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713993915,
+        "title": "剪映官网-全能易用的桌面端剪辑软件-轻而易剪 上演大幕",
+        "icon": "https://logo.clearbit.com/www.capcut.cn",
+        "url": "https://www.capcut.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713991581,
+        "title": "腾讯智影-在线智能视频创作平台",
+        "icon": "https://logo.clearbit.com/zenvideo.qq.com",
+        "url": "https://zenvideo.qq.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713989252,
+        "title": "Best AI Video Generator - Start Creating FREE AI Videos Now",
+        "icon": "https://logo.clearbit.com/www.synthesia.io",
+        "url": "https://www.synthesia.io/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713984555,
+        "title": "首页 - 必剪Studio",
+        "icon": "https://logo.clearbit.com/member.bilibili.com",
+        "url": "https://member.bilibili.com/york/bilibili-studio/unlogin"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713982155,
+        "title": "讯飞虚拟数字人-全栈式AI虚拟人应用服务平台",
+        "icon": "https://logo.clearbit.com/virtual-man.xfyun.cn",
+        "url": "https://virtual-man.xfyun.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713920963,
+        "title": "Redis for AI - Redis",
+        "icon": "https://logo.clearbit.com/redis.io",
+        "url": "https://redis.io/redis-for-ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713918498,
+        "title": "Humata: AI for your files",
+        "icon": "https://logo.clearbit.com/www.humata.ai",
+        "url": "https://www.humata.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713915964,
+        "title": "H2O.ai | Convergence of The World's Best Predictive & Generative AI",
+        "icon": "https://logo.clearbit.com/h2o.ai",
+        "url": "https://h2o.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713912547,
+        "title": "Magic ToDo - GoblinTools",
+        "icon": "https://logo.clearbit.com/goblin.tools",
+        "url": "https://goblin.tools/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713910330,
+        "title": "万知 I 问答、阅读、创作的一站式AI工作平台",
+        "icon": "https://logo.clearbit.com/www.wanzhi.com",
+        "url": "https://www.wanzhi.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713907218,
+        "title": "ScopeMaster - AI Software Requirements Analysis, QA and Sizing",
+        "icon": "https://logo.clearbit.com/www.scopemaster.com",
+        "url": "https://www.scopemaster.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713902931,
+        "title": "Sora | OpenAI",
+        "icon": "https://logo.clearbit.com/openai.com",
+        "url": "https://openai.com/index/sora/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713900539,
+        "title": "GitHub Copilot · Your AI pair programmer",
+        "icon": "https://logo.clearbit.com/github.com",
+        "url": "https://github.com/features/copilot"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713897841,
+        "title": "Jasper | AI copilot for enterprise marketing teams",
+        "icon": "https://logo.clearbit.com/www.jasper.ai",
+        "url": "https://www.jasper.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713895625,
+        "title": "Future proof your business with GTM AI",
+        "icon": "https://logo.clearbit.com/www.copy.ai",
+        "url": "https://www.copy.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713892977,
+        "title": "Scholarcy - Knowledge made simple",
+        "icon": "https://logo.clearbit.com/www.scholarcy.com",
+        "url": "https://www.scholarcy.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713890241,
+        "title": "ChatDOC - AI Chat with PDF Documents",
+        "icon": "https://logo.clearbit.com/chatdoc.com",
+        "url": "https://chatdoc.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713887930,
+        "title": "Your connected workspace for wiki, docs & projects | Notion",
+        "icon": "https://logo.clearbit.com/www.notion.so",
+        "url": "https://www.notion.so/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713885641,
+        "title": "Consensus: AI-powered Academic Search Engine",
+        "icon": "https://logo.clearbit.com/consensus.app",
+        "url": "https://consensus.app/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713883428,
+        "title": "DeepL Translate: The world's most accurate translator",
+        "icon": "https://logo.clearbit.com/www.deepl.com",
+        "url": "https://www.deepl.com/en/translator"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713881123,
+        "title": "O.Translator: 世界上最聪明的AI文档翻译器",
+        "icon": "https://logo.clearbit.com/otranslator.com",
+        "url": "https://otranslator.com/zh"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713878897,
+        "title": "Microsoft Translator",
+        "icon": "https://logo.clearbit.com/translator.microsoft.com",
+        "url": "https://translator.microsoft.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713876353,
+        "title": "有道翻译_文本、文档、网页、在线即时翻译",
+        "icon": "https://logo.clearbit.com/fanyi.youdao.com",
+        "url": "https://fanyi.youdao.com/#/AITranslate"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713873769,
+        "title": "讯飞同传-会议同传-专业AI同声传译设备-实时字幕翻译软件",
+        "icon": "https://logo.clearbit.com/tongchuan.iflyrec.com",
+        "url": "https://tongchuan.iflyrec.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713871137,
+        "title": "百度翻译-您的超级翻译伙伴（文本、文档翻译）",
+        "icon": "https://logo.clearbit.com/fanyi.baidu.com",
+        "url": "https://fanyi.baidu.com/mtpe-individual/multimodal#/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713867755,
+        "title": "Homepage | Cerebras",
+        "icon": "https://logo.clearbit.com/cerebras.ai",
+        "url": "https://cerebras.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713864570,
+        "title": "Acrobat AI Assistant: Generative AI document & PDF tool",
+        "icon": "https://logo.clearbit.com/www.adobe.com",
+        "url": "https://www.adobe.com/acrobat/generative-ai-pdf.html?ref=ai-bot.cn"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713861281,
+        "title": "合同嗖嗖_Chat生成AI智能合同_所问即合同内容文书起草",
+        "icon": "https://logo.clearbit.com/contract.yoo-ai.com",
+        "url": "https://contract.yoo-ai.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713818810,
+        "title": "PromptPerfect - AI Prompt Generator and Optimizer",
+        "icon": "https://logo.clearbit.com/promptperfect.jina.ai",
+        "url": "https://promptperfect.jina.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713815849,
+        "title": "提示工程指南 | Prompt Engineering Guide",
+        "icon": "https://logo.clearbit.com/www.promptingguide.ai",
+        "url": "https://www.promptingguide.ai/zh"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713477293,
+        "title": "Perplexity",
+        "icon": "https://logo.clearbit.com/www.perplexity.ai",
+        "url": "https://www.perplexity.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713381958,
+        "title": "Poe - 快捷实用的AI聊天",
+        "icon": "https://logo.clearbit.com/poe.com",
+        "url": "https://poe.com/login"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713379724,
+        "title": "文小言-AI塑造项目管理未来",
+        "icon": "https://logo.clearbit.com/yiyanapp.baidu.com",
+        "url": "https://yiyanapp.baidu.com/talk/litechat?uk=JKIsr0vz59hNw97xvY9-RA&characterId=1052438&from=newapp&version=4.0.0.10"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713377107,
+        "title": "ChatGPT - AI塑造项目管理未来社区",
+        "icon": "https://logo.clearbit.com/chatgpt.com",
+        "url": "https://chatgpt.com/g/g-POxxjo6he-aisu-zao-xiang-mu-guan-li-wei-lai-she-qu"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713374059,
+        "title": "Manage Your Team’s Projects From Anywhere | Trello",
+        "icon": "https://logo.clearbit.com/trello.com",
+        "url": "https://trello.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713371419,
+        "title": "ChatGPT",
+        "icon": "https://logo.clearbit.com/chatgpt.com",
+        "url": "https://chatgpt.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713368755,
+        "title": "‎Gemini - chat to supercharge your ideas",
+        "icon": "https://logo.clearbit.com/gemini.google.com",
+        "url": "https://gemini.google.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713366651,
+        "title": "Claude",
+        "icon": "https://logo.clearbit.com/claude.ai",
+        "url": "https://claude.ai/login?returnTo=%2F%3F"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713362996,
+        "title": "搜索 Microsoft Copilot: 你的日常 AI 助手",
+        "icon": "https://logo.clearbit.com/copilot.microsoft.com",
+        "url": "https://copilot.microsoft.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713360292,
+        "title": "文心一言",
+        "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+        "url": "https://yiyan.baidu.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713357692,
+        "title": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
+        "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+        "url": "https://xinghuo.xfyun.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713354228,
+        "title": "Kimi.ai - 帮你看更大的世界",
+        "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+        "url": "https://kimi.moonshot.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713351810,
+        "title": "智谱清言",
+        "icon": "https://logo.clearbit.com/chatglm.cn",
+        "url": "https://chatglm.cn/?lang=zh"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713349372,
+        "title": "豆包 - 字节跳动旗下 AI 智能助手",
+        "icon": "https://logo.clearbit.com/www.doubao.com",
+        "url": "https://www.doubao.com/chat/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713346884,
+        "title": "通义tongyi.ai_你的全能AI助手-通义千问",
+        "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+        "url": "https://tongyi.aliyun.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713339091,
+        "title": "紫东太初",
+        "icon": "https://logo.clearbit.com/taichu-web.ia.ac.cn",
+        "url": "https://taichu-web.ia.ac.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713336187,
+        "title": "腾讯元宝",
+        "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+        "url": "https://yuanbao.tencent.com/chat"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713329075,
+        "title": "天工AI-搜索、对话、写作、文档分析、画画、做PPT的全能AI助手",
+        "icon": "https://logo.clearbit.com/www.tiangong.cn",
+        "url": "https://www.tiangong.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713318428,
+        "title": "PMOtto.ai",
+        "icon": "https://logo.clearbit.com/www.pmotto.ai",
+        "url": "https://www.pmotto.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713315443,
+        "title": "PMI Infinity",
+        "icon": "https://logo.clearbit.com/infinity.pmi.org",
+        "url": "https://infinity.pmi.org/chat"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713312595,
+        "title": "智谱清言",
+        "icon": "https://logo.clearbit.com/chatglm.cn",
+        "url": "https://chatglm.cn/main/alltoolsdetail?lang=zh"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713309443,
+        "title": "扣子 - AI 智能体开发平台",
+        "icon": "https://logo.clearbit.com/www.coze.cn",
+        "url": "https://www.coze.cn/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713306740,
+        "title": "xAI",
+        "icon": "https://logo.clearbit.com/x.ai",
+        "url": "https://x.ai/"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713303707,
+        "title": "ChatGPT - Scholar GPT",
+        "icon": "https://logo.clearbit.com/chatgpt.com",
+        "url": "https://chatgpt.com/g/g-kZ0eYXlJe-scholar-gpt"
+      },
+      {
+        "type": "link",
+        "addDate": 1727713299955,
+        "title": "秘塔AI搜索",
+        "icon": "https://logo.clearbit.com/metaso.cn",
+        "url": "https://metaso.cn/"
+      },
       {
         "type": "folder",
         "addDate": 1727704128919,
@@ -11,7 +711,7 @@
         "children": [
           {
             "type": "link",
-            "addDate": 1727709159108,
+            "addDate": 1727714452360,
             "title": "秘塔AI搜索",
             "icon": "https://logo.clearbit.com/metaso.cn",
             "url": "https://metaso.cn/"
@@ -193,7 +893,7 @@
         "children": [
           {
             "type": "link",
-            "addDate": 1727709124043,
+            "addDate": 1727714426968,
             "title": "提示工程指南 | Prompt Engineering Guide",
             "icon": "https://logo.clearbit.com/www.promptingguide.ai",
             "url": "https://www.promptingguide.ai/zh"
@@ -417,10 +1117,10 @@
           },
           {
             "type": "link",
-            "addDate": 1727706881023,
-            "title": "Best AI Video Generator - Start Creating FREE AI Videos Now",
-            "icon": "https://logo.clearbit.com/www.synthesia.io",
-            "url": "https://www.synthesia.io/"
+            "addDate": 1727714194566,
+            "title": "Digital Twin APIs-tavus",
+            "icon": "https://logo.clearbit.com/www.tavus.io",
+            "url": "https://www.tavus.io/"
           }
         ]
       },
@@ -750,7 +1450,7 @@
             "title": "First AI-driven Prediction Tool | ANR",
             "icon": "https://logo.clearbit.com/antonionietorodriguez.com",
             "url": "https://antonionietorodriguez.com/ai-driven-prediction-tool/"
-          }
+     }
         ]
       }
     ]
