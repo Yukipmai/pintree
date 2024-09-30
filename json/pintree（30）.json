@@ -1,0 +1,282 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1629854105805,
+    "title": "项目管理AI工具集”AI塑造项目管理未来社区“出品,
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1727659737553,
+        "title": "专项工具",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1727659759167,
+            "title": "国内工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1727660083500,
+                "title": "扣子 - AI 智能体开发平台",
+                "icon": "https://logo.clearbit.com/www.coze.cn",
+                "url": "https://www.coze.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727660097327,
+                "title": "剪映官网-全能易用的桌面端剪辑软件-轻而易剪 上演大幕",
+                "icon": "https://logo.clearbit.com/www.capcut.cn",
+                "url": "https://www.capcut.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727660112460,
+                "title": "飞书——先进企业协作与管理平台，一站式无缝办公协作，团队上下对齐目标，全面激活组织和个人。先进团队，先用飞书。",
+                "icon": "https://logo.clearbit.com/www.feishu.cn",
+                "url": "https://www.feishu.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727660128795,
+                "title": "腾讯智影-在线智能视频创作平台",
+                "icon": "https://logo.clearbit.com/zenvideo.qq.com",
+                "url": "https://zenvideo.qq.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1727659746112,
+            "title": "国外工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1727659787240,
+                "title": "First AI-driven Prediction Tool | ANR",
+                "icon": "https://logo.clearbit.com/antonionietorodriguez.com",
+                "url": "https://antonionietorodriguez.com/ai-driven-prediction-tool/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659885062,
+                "title": "Decktopus AI",
+                "icon": "https://logo.clearbit.com/www.decktopus.com",
+                "url": "https://www.decktopus.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659904423,
+                "title": "Magic ToDo - GoblinTools",
+                "icon": "https://logo.clearbit.com/goblin.tools",
+                "url": "https://goblin.tools/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659816711,
+                "title": "Otter.ai - AI Meeting Note Taker & Real-time AI Transcription",
+                "icon": "https://logo.clearbit.com/otter.ai",
+                "url": "https://otter.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727660015085,
+                "title": "Gamma",
+                "icon": "https://logo.clearbit.com/gamma.app",
+                "url": "https://gamma.app/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727660035973,
+                "title": "Face Swap Online Free",
+                "icon": "https://logo.clearbit.com/remaker.ai",
+                "url": "https://remaker.ai/face-swap-free/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727660051012,
+                "title": "Happy Scribe: Subtitles, transcription and now [dramatic pause] translations",
+                "icon": "https://logo.clearbit.com/www.happyscribe.com",
+                "url": "https://www.happyscribe.com/cvariant"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1727659580617,
+        "title": "专业工具",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1727659593922,
+            "title": "国内工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1727659671001,
+                "title": "ChatGPT - AI塑造项目管理未来社区",
+                "icon": "https://logo.clearbit.com/chatgpt.com",
+                "url": "https://chatgpt.com/g/g-POxxjo6he-aisu-zao-xiang-mu-guan-li-wei-lai-she-qu"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659706425,
+                "title": "文小言-AI塑造项目管理未来",
+                "icon": "https://logo.clearbit.com/yiyanapp.baidu.com",
+                "url": "https://yiyanapp.baidu.com/talk/litechat?uk=JKIsr0vz59hNw97xvY9-RA&characterId=1052438&from=newapp&version=4.0.0.10"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659723681,
+                "title": "智谱清言",
+                "icon": "https://logo.clearbit.com/chatglm.cn",
+                "url": "https://chatglm.cn/main/alltoolsdetail?lang=zh"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1727659588866,
+            "title": "国外工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1727659611193,
+                "title": "PMI Infinity",
+                "icon": "https://logo.clearbit.com/infinity.pmi.org",
+                "url": "https://infinity.pmi.org/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659635306,
+                "title": "PMOtto.ai",
+                "icon": "https://logo.clearbit.com/www.pmotto.ai",
+                "url": "https://www.pmotto.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659651505,
+                "title": "Manage Your Team’s Projects From Anywhere | Trello",
+                "icon": "https://logo.clearbit.com/trello.com",
+                "url": "https://trello.com/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1727659030680,
+        "title": "一般工具",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1727659400483,
+            "title": "国内工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1727659422531,
+                "title": "文心一言",
+                "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+                "url": "https://yiyan.baidu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659471915,
+                "title": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
+                "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+                "url": "https://xinghuo.xfyun.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659488787,
+                "title": "Kimi.ai - 帮你看更大的世界",
+                "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                "url": "https://kimi.moonshot.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659499859,
+                "title": "智谱清言",
+                "icon": "https://logo.clearbit.com/chatglm.cn",
+                "url": "https://chatglm.cn/?lang=zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659514474,
+                "title": "豆包 - 字节跳动旗下 AI 智能助手",
+                "icon": "https://logo.clearbit.com/www.doubao.com",
+                "url": "https://www.doubao.com/chat/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659528146,
+                "title": "通义tongyi.ai_你的全能AI助手-通义千问",
+                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                "url": "https://tongyi.aliyun.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659541570,
+                "title": "紫东太初",
+                "icon": "https://logo.clearbit.com/taichu-web.ia.ac.cn",
+                "url": "https://taichu-web.ia.ac.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659556690,
+                "title": "腾讯元宝",
+                "icon": "https://logo.clearbit.com/yuanbao.tencent.com",
+                "url": "https://yuanbao.tencent.com/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659567090,
+                "title": "天工AI-搜索、对话、写作、文档分析、画画、做PPT的全能AI助手",
+                "icon": "https://logo.clearbit.com/www.tiangong.cn",
+                "url": "https://www.tiangong.cn/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1727659335532,
+            "title": "国外工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1727659330227,
+                "title": "搜索 Microsoft Copilot: 你的日常 AI 助手",
+                "icon": "https://logo.clearbit.com/copilot.microsoft.com",
+                "url": "https://copilot.microsoft.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659241341,
+                "title": "ChatGPT",
+                "icon": "https://logo.clearbit.com/chatgpt.com",
+                "url": "https://chatgpt.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659268028,
+                "title": "‎Gemini - chat to supercharge your ideas",
+                "icon": "https://logo.clearbit.com/gemini.google.com",
+                "url": "https://gemini.google.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727659309053,
+                "title": "Claude",
+                "icon": "https://logo.clearbit.com/claude.ai",
+                "url": "https://claude.ai/login?returnTo=%2F%3F"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
